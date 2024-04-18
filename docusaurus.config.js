@@ -13,15 +13,15 @@ const config = {
   favicon: 'https://aegisvpn.me/static/images/icons/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://aegisvpn.me',
+  url: 'https://docs.aegisvpn.me',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'AegisVPN', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'foxahaha', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
