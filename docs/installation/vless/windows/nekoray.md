@@ -8,7 +8,7 @@ sidebar_label: Nekoray
 :::tip подсказка
 
 <p>После того, как скачаете архив, распакуйте его на рабочий стол.</p>
-<a href="https://github.com/MatsuriDayo/nekoray/releases/download/3.14/nekoray-3.14-2023-07-25-windows64.zip" target="_blank" class="button">Скачать приложение</a>
+<a href="https://github.com/foxahaha/docs/releases/download/files/nekoray-vless.zip" target="_blank" class="button">Скачать приложение</a>
 
 :::
 
