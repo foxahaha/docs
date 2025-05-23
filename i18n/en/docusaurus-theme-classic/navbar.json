@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "AegisVPN",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "AegisVPN Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Документация": {
+    "message": "Documentation",
+    "description": "Navbar item with label Документация"
+  }
+}

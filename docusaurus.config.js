@@ -31,7 +31,17 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ru',
-    locales: ['ru'],
+    locales: ['ru', 'en'],
+    localeConfigs: {
+      ru: {
+        label: 'Русский',
+        direction: 'ltr',
+      },
+      en: {
+        label: 'English',
+        direction: 'ltr',
+      },
+    },
   },
 
   presets: [
@@ -70,7 +80,10 @@ const config = {
             position: 'left',
             label: 'Документация',
           },
-
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          },
           {
             href: 'https://github.com/facebook/docusaurus',
             position: 'right',

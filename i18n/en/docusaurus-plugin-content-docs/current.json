@@ -1,0 +1,78 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Выбор устройства": {
+    "message": "Device Selection",
+    "description": "The label for category Выбор устройства in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Выбор устройства.link.generated-index.title": {
+    "message": "Device Selection",
+    "description": "The generated-index page title for category Выбор устройства in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Роутер": {
+    "message": "Router",
+    "description": "The label for category Роутер in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на Asus": {
+    "message": "Setup on Asus",
+    "description": "The label for category Установка на Asus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на Asus.link.generated-index.title": {
+    "message": "Protocol Selection for Asus",
+    "description": "The generated-index page title for category Установка на Asus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на Keenetic": {
+    "message": "Setup on Keenetic",
+    "description": "The label for category Установка на Keenetic in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на Keenetic.link.generated-index.title": {
+    "message": "Protocol Selection for Keenetic",
+    "description": "The generated-index page title for category Установка на Keenetic in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на TP-Link": {
+    "message": "Setup on TP-Link",
+    "description": "The label for category Установка на TP-Link in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на TP-Link.link.generated-index.title": {
+    "message": "Protocol Selection for TP-Link",
+    "description": "The generated-index page title for category Установка на TP-Link in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vless": {
+    "message": "Vless",
+    "description": "The label for category Vless in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на IOS": {
+    "message": "Setup on iOS",
+    "description": "The label for category Установка на IOS in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на IOS.link.generated-index.title": {
+    "message": "App Selection for iOS",
+    "description": "The generated-index page title for category Установка на IOS in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на macOS": {
+    "message": "Setup on macOS",
+    "description": "The label for category Установка на macOS in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на macOS.link.generated-index.title": {
+    "message": "App Selection for macOS",
+    "description": "The generated-index page title for category Установка на macOS in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на Android": {
+    "message": "Setup on Android",
+    "description": "The label for category Установка на Android in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на Android.link.generated-index.title": {
+    "message": "App Selection for Android",
+    "description": "The generated-index page title for category Установка на Android in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на Windows": {
+    "message": "Setup on Windows",
+    "description": "The label for category Установка на Windows in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Установка на Windows.link.generated-index.title": {
+    "message": "App Selection for Windows",
+    "description": "The generated-index page title for category Установка на Windows in sidebar tutorialSidebar"
+  }
+}
