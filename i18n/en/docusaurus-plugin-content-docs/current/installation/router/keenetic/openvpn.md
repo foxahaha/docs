@@ -8,7 +8,7 @@ sidebar_label: OpenVPN
 First, you need to download and unzip the zip archive containing .ovpn files. You can obtain it from your [personal account](https://aegisvpn.me/cabinet/).
 
 <p>
-    <img src="/img/openvpn/openvpn_cabinet.png#pccenter" alt="First image" width="1200"/>
+    <img src="/img/en/openvpn/openvpn_cabinet.png#pccenter" alt="First image" width="1200"/>
 </p>
 
 ___
