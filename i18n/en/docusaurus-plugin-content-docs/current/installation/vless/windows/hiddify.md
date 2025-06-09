@@ -52,7 +52,7 @@ You can check whether the connection is working or not on the website [whoer.to]
 :::
 
 <p>
-    <img src="/img/en/hiddify/hid-timeout.png#pccenter" alt="Second image" width="1200"/>
+    <img src="/img/hiddify/hid-timeout.png#pccenter" alt="Second image" width="1200"/>
 </p>
 
 ### Selecting a Server
