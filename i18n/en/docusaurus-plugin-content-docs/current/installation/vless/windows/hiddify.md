@@ -34,7 +34,7 @@ ___
 
 1. Click the `+` button in the top right corner.
 <p>
-    <img src="/img/hiddify/hid1.png#pccenter" alt="First image" width="1200"/>
+    <img src="/img/en/hiddify/hid1.png#pccenter" alt="First image" width="1200"/>
 </p>
 2. Select the option `Add from Clipboard` (since we already copied the key earlier).
 3. After adding, a notification will appear, along with the subscription key itself.
@@ -52,7 +52,7 @@ You can check whether the connection is working or not on the website [whoer.to]
 :::
 
 <p>
-    <img src="/img/hiddify/hid-timeout.png#pccenter" alt="Second image" width="1200"/>
+    <img src="/img/en/hiddify/hid-timeout.png#pccenter" alt="Second image" width="1200"/>
 </p>
 
 ### Selecting a Server
@@ -63,7 +63,7 @@ You can check whether the connection is working or not on the website [whoer.to]
 4. To check if the connection is working, click `Check IP` at the bottom left and verify if the flag matches.
 
 <p>
-    <img src="/img/hiddify/hid-ip.png#pccenter" alt="Third image" width="1200"/>
+    <img src="/img/en/hiddify/hid-ip.png#pccenter" alt="Third image" width="1200"/>
 </p>
 
 ### Important Note
@@ -77,7 +77,7 @@ To resolve this, locate the application icon in the system tray (bottom right co
 :::
 
 <p>
-    <img src="/img/hiddify/hid-tray.jpg#pccenter" alt="Third image" width="1200"/>
+    <img src="/img/en/hiddify/hid-tray.jpg#pccenter" alt="Third image" width="1200"/>
 </p>
 
 ## Conclusion

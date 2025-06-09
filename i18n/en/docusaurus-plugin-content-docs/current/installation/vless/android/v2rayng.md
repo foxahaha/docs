@@ -30,8 +30,8 @@ ___
 2. In the dropdown menu, tap `Import profile from clipboard`.
 
 <div class="image-row">
-    <img src="/img/v2rayng/android_v2rayNG_ru_step_1.webp#center" alt="Step 1" width="200"/>
-    <img src="/img/v2rayng/android_v2rayNG_ru_step_2.webp#center" alt="Step 2" width="200"/>
+    <img src="/img/en/v2rayng/1vray.jpg#center" alt="Step 1" width="200"/>
+    <img src="/img/en/v2rayng/2vray.jpg#center" alt="Step 2" width="200"/>
 </div>
 
 ___
@@ -42,8 +42,8 @@ ___
 2. In the dropdown menu, tap `Update subscription`.
 
 <div class="image-row">
-    <img src="/img/v2rayng/android_v2rayNG_ru_step_3.webp#center" alt="Step 3" width="200"/>
-    <img src="/img/v2rayng/android_v2rayNG_ru_step_4.webp#center" alt="Step 4" width="200"/>
+    <img src="/img/en/v2rayng/3vray.jpg#center" alt="Step 3" width="200"/>
+    <img src="/img/en/v2rayng/4vray.jpg#center" alt="Step 4" width="200"/>
 </div>
 
 ___
